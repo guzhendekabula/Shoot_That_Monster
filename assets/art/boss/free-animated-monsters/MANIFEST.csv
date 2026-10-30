@@ -1,0 +1,7 @@
+file,creature,state,columns,rows,frames,frame_w,frame_h,row_order
+staticweaver/attack.png,staticweaver,attack,6,4,24,203,203,"down,left,right,up"
+staticweaver/idle.png,staticweaver,idle,6,4,24,203,203,"down,left,right,up"
+staticweaver/walk.png,staticweaver,walk,6,4,24,203,203,"down,left,right,up"
+stormharpy/attack.png,stormharpy,attack,6,4,24,209,209,"down,left,right,up"
+stormharpy/idle.png,stormharpy,idle,6,4,24,209,209,"down,left,right,up"
+stormharpy/walk.png,stormharpy,walk,6,4,24,209,209,"down,left,right,up"

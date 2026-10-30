@@ -1,0 +1,4258 @@
+{
+  "frames": [
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_South_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "6521500478c4701a",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Attack_South_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "d77ffd543a1fc25f",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_South_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "96781e5d5f48412b",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_South_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "572544fbe4ebebfc",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Attack_South_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "35265e7621e22bcc",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_South_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "04e0ad76a93faad8",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_South_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "7aa425d3520007e3",
+        "index": 6,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Attack_South_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "c8a852696d35d1dd",
+        "index": 7,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_East_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "5582d855d5b25abd",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Attack_East_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "bef52b02de72c0bc",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_East_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "8b35a812b9d577b8",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_East_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "ba41b8d8fc3d891f",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Attack_East_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "2f584d86775d0753",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_East_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "e693a2ff3525c10f",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_East_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "6e7c3f188362085c",
+        "index": 6,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Attack_East_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "00d57fcf8a8ddc36",
+        "index": 7,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_North_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "36918dfa96ab1f1c",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Attack_North_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "70e096226fa8509d",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_North_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "7a57b30c87c82c49",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_North_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "d931e2ab2281effa",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Attack_North_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "337cb27590657e3e",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_North_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "f62a5195a64d591a",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_North_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "08316bd92c7dbc85",
+        "index": 6,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Attack_North_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "eda2311cbc14a847",
+        "index": 7,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_West_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "210ca22862437007",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Attack_West_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "01aa4a8274e5d542",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_West_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "93de5d24fd7cc74e",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_West_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "37ea9eac4ac5c555",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Attack_West_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "0f43f89b630eb40d",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_West_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "b2bfec91daeebf79",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Attack_West_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "224e427d307df396",
+        "index": 6,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Attack_West_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "665495e6c95231b0",
+        "index": 7,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_South_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 256
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "c8342d7a7a2a0521",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Hurt_South_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 256
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "c2567f9fa9648110",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_South_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 256
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "8a3c0118cf077074",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_South_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 256
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "f973331658d1d553",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Hurt_South_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 256
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "f21a634c87edafaf",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_South_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 256
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "6f196956f62bfdb3",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_East_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 320
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "4b6d14d2e4025e28",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Hurt_East_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 320
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "8dec46f51a2af939",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_East_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 320
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "972425eb597329ad",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_East_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 320
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "b0691808ce798a56",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Hurt_East_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 320
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "5bad6efbba2e2022",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_East_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 320
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "78118f4987ffd176",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_North_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "e9effb36464572af",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Hurt_North_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "3d3849cbc5c4f88a",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_North_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "a8a0cf8794560fd6",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_North_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "8f5bdd6a1f4faf2d",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Hurt_North_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "2deba3741793e745",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_North_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "c8525ef8b92c6701",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_West_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 448
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "c579f8a5185d9186",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Hurt_West_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 448
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "cd4c25cd1b7ae5eb",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_West_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 448
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "bec8153daae3079f",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_West_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 448
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "8fbc0477687af638",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Hurt_West_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 448
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "6c2279c7477aa020",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Hurt_West_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 448
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "b9e8854993cdb704",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_South_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 512
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "7065beb2a2214d26",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Idle_South_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 512
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "65961657f4a9048b",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_South_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 512
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "a8b399cba65af3ff",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_South_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 512
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "55e95e8811a55698",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Idle_South_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 512
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "170e3fd4d13e5bc0",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_South_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 512
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "4e94122dc5023464",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_South_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 512
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "dc83e7479354ec17",
+        "index": 6,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Idle_South_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 512
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "8fc0344b0ed131a1",
+        "index": 7,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_East_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "026736b30020faa9",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Idle_East_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "1f95d858e266a438",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_East_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "7892a59f494f103c",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_East_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "5d25f9ae956693eb",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Idle_East_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "9b49e22e2709e787",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_East_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "8539955b356ed47b",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_East_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "b4b897ac5e69dc50",
+        "index": 6,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Idle_East_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "2d5b8e008c85dfaa",
+        "index": 7,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_North_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 640
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "b605361ef986bca8",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Idle_North_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 640
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "f88468412faf57b9",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_North_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 640
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "dc7efce12cac652d",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_North_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 640
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "f5c3eefea1b2c5d6",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Idle_North_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 640
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "c6459047cfb27ea2",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_North_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 640
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "bd6c663f5b390cf6",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_North_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 640
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "09ed95ab190a2c59",
+        "index": 6,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Idle_North_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 640
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "12a01b82d00d68fb",
+        "index": 7,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_West_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 704
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "5ea5816540f0000b",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Idle_West_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 704
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "697529bfee6848a6",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_West_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 704
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "4890470f79d2d3ba",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_West_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 704
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "2595a51945fd9b89",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Idle_West_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 704
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "065ea2fd77e67c59",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_West_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 704
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "59be5d08d52b562d",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Idle_West_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 704
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "c2b69d9a2e8ecea2",
+        "index": 6,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Idle_West_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 704
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "10507a156470d58c",
+        "index": 7,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_South_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 768
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "f5534d943bba1169",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Walk_South_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 768
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "b155173b74ce5978",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_South_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 768
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "e0033f51d29288fc",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_South_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 768
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "1f5618b34ceede2b",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Walk_South_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 768
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "767929620a12abc7",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_South_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 768
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "231a2f0dc197293b",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_South_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 768
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "b958bf0c33ad6290",
+        "index": 6,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Walk_South_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 768
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "5ddaccde39d3c5ea",
+        "index": 7,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_East_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 832
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "5661af9d335ef760",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Walk_East_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 832
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "5f150cec8bd46011",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_East_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 832
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "3e2e2a3c173eb4c5",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_East_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 832
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "fa41d13ebe28081e",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Walk_East_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 832
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "6d540678da4832ea",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_East_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 832
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "82422f4efe35cbce",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_East_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 832
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "d4cb432d29303b71",
+        "index": 6,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Walk_East_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 832
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "a024daaf22c44673",
+        "index": 7,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_North_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 896
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "0821b7970ccba167",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Walk_North_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 896
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "6dcd8a7356d714a2",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_North_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 896
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "e4b00912c005aeee",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_North_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 896
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "ba3e17c685448ff5",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Walk_North_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 896
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "4507388c421cca6d",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_North_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 896
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "ba21902e4cd69819",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_North_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 896
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "db11bb976de19a36",
+        "index": 6,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Walk_North_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 896
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "d277d5d7ab437110",
+        "index": 7,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_West_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 960
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "e22a63875b80ec3e",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Walk_West_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 960
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "204ebc3463087703",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_West_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 960
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "778788f73d953d37",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_West_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 960
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "b539203f354e7f40",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Walk_West_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 960
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "4e6b5a35d8981b48",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_West_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 960
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "4a58004cbff65cbc",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mushroom-monster-red_Walk_West_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 960
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "2a51315fec93216f",
+        "index": 6,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mushroom-monster-red_Walk_West_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 960
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "a194d91b7bbfc379",
+        "index": 7,
+        "pivot": {
+          "x": 32,
+          "y": 45
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    }
+  ],
+  "meta": {
+    "app": "Pixor",
+    "format": "I8",
+    "frameTags": [
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 0,
+        "name": "Attack_South",
+        "to": 7
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 8,
+        "name": "Attack_East",
+        "to": 15
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 16,
+        "name": "Attack_North",
+        "to": 23
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 24,
+        "name": "Attack_West",
+        "to": 31
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 32,
+        "name": "Hurt_South",
+        "repeat": "1",
+        "to": 37
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 38,
+        "name": "Hurt_East",
+        "repeat": "1",
+        "to": 43
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 44,
+        "name": "Hurt_North",
+        "repeat": "1",
+        "to": 49
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 50,
+        "name": "Hurt_West",
+        "repeat": "1",
+        "to": 55
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 56,
+        "name": "Idle_South",
+        "to": 63
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 64,
+        "name": "Idle_East",
+        "to": 71
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 72,
+        "name": "Idle_North",
+        "to": 79
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 80,
+        "name": "Idle_West",
+        "to": 87
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 88,
+        "name": "Walk_South",
+        "to": 95
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 96,
+        "name": "Walk_East",
+        "to": 103
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 104,
+        "name": "Walk_North",
+        "to": 111
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 112,
+        "name": "Walk_West",
+        "to": 119
+      }
+    ],
+    "image": "mushroom-monster-red_64px_scroller_outline_lit.png",
+    "layers": [
+      {
+        "blendMode": "normal",
+        "name": "final",
+        "opacity": 255
+      }
+    ],
+    "pixor": {
+      "cell": {
+        "h": 64,
+        "w": 64
+      },
+      "emission": "s_emission.png",
+      "pivot": {
+        "x": 32,
+        "y": 45
+      },
+      "sides": {
+        "East": 90.0,
+        "North": 180.0,
+        "South": 0.0,
+        "West": 270.0
+      }
+    },
+    "scale": "1",
+    "size": {
+      "h": 1024,
+      "w": 512
+    },
+    "slices": [
+      {
+        "color": "#0000ffff",
+        "keys": [
+          {
+            "bounds": {
+              "h": 64,
+              "w": 64,
+              "x": 0,
+              "y": 0
+            },
+            "frame": 0,
+            "pivot": {
+              "x": 32,
+              "y": 45
+            }
+          }
+        ],
+        "name": "pivot"
+      }
+    ],
+    "version": "2.1.0"
+  }
+}

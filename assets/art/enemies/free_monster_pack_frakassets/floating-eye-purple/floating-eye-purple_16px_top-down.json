@@ -1,0 +1,3142 @@
+{
+  "frames": [
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_South_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "fc09a37b507011a1",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Attack_South_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "f62bf5a07faa8d90",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_South_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "98d42cc3630259f4",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_South_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "080b5ec0ecccbed3",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Attack_South_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "25efd94d5e33bc2f",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_South_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "7db195018a26e733",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_South_06.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 96,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "2acbd7aae5b1da08",
+        "index": 6,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Attack_South_07.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 112,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "9c99c6d0d784f6c2",
+        "index": 7,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_East_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "ecd9cd4c1ff0dfa8",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Attack_East_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "2f58ff6e56197ab9",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_East_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "1353940e5316882d",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_East_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "2c98862bc81ce8d6",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Attack_East_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "fd1a2774f61ca1a2",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_East_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "f440fd6c81a32ff6",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_East_06.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 96,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "40c22cd83f744f59",
+        "index": 6,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Attack_East_07.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 112,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "4974b2aff6778bfb",
+        "index": 7,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_North_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 32
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "1dc571371c8b7f2f",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Attack_North_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 32
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "710dbfcc9c0b050a",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_North_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 32
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "01b38fdeace73f56",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_North_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 32
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "e86e9dc137e0dead",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Attack_North_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 32
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "61c11974edd9f3c5",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_North_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 32
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "21651f4fd1bd9681",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_North_06.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 96,
+        "y": 32
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "e2ba8a89b92d6d7e",
+        "index": 6,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Attack_North_07.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 112,
+        "y": 32
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "821801ceb94a5c98",
+        "index": 7,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_West_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "66e6b11e544c1306",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Attack_West_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "6eb8de465769676b",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_West_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "8572180d291cac1f",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_West_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "56660746e6b49ab8",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Attack_West_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "0d8f3240836921a0",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_West_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "8092881912075b84",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Attack_West_06.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 96,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "dc925d37cb3be737",
+        "index": 6,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Attack_West_07.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 112,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "4fe126b6be18ce81",
+        "index": 7,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_South_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "1ca6c7cba75a716e",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Hurt_South_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "1deaa35b92ffa6d3",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_South_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "6555c0a6366b86e7",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_South_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "0c0b3a3b25dd7590",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Hurt_South_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "026aecbfd3b92a78",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_South_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "61123a13b981e92c",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_East_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 80
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "24b109e3c5293101",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Hurt_East_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 80
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "3d11f8dde2afd670",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_East_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 80
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "7b6d272a12069c14",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_East_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 80
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "7d42fe52bcf69273",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Hurt_East_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 80
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "1795e4e0f6f5960f",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_East_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 80
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "605a8f68392cdc53",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_North_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "7c3ade7388143680",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Hurt_North_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "c24ce944376bc1b1",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_North_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "7ab5c50a61ab7b25",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_North_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "e83808e1f118f2fe",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Hurt_North_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "9a2be2d082fc6b8a",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_North_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "5669ca22309f8a2e",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_West_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 112
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "5a4266dec58c9de3",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Hurt_West_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 112
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "3fec38af1054521e",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_West_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 112
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "1c1670561b952bb2",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_West_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 112
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "a4bf745cde00aa11",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Hurt_West_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 112
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "fc35836cc05efbe1",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Hurt_West_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 112
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "b8ffe993a5135f65",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_South_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "9549d7f74b3d6c49",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Idle_South_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "1fd9d4720c5d8458",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_South_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "5183b2e55a205f1c",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_South_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "0bb861c49d11f34b",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Idle_South_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "7cade69d89a081a7",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_South_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "948aa2a149234c5b",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_South_06.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 96,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "fafaffc74e13e6b0",
+        "index": 6,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Idle_South_07.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 112,
+        "y": 128
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "2d9f8a19b67cbfca",
+        "index": 7,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_East_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "99c397b929d61240",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Idle_East_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "3a9527dc07726ef1",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_East_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "d91f66d2312948e5",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_East_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "c6b4db0150087f3e",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Idle_East_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "12642168530165ca",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_East_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "1d336be518205fee",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_East_06.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 96,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "a13e4cefbb10b291",
+        "index": 6,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Idle_East_07.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 112,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "7ba4f59e9e625553",
+        "index": 7,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_North_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 160
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "f21a492cd4a74747",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Idle_North_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 160
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "ea74c1343fd9ff02",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_North_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 160
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "2d0ce4507cffde8e",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_North_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 160
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "9539982f63645115",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Idle_North_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 160
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "16ee66f6f56323cd",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_North_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 160
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "028e6b6c09d27ab9",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_North_06.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 96,
+        "y": 160
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "b60d3c004c015b56",
+        "index": 6,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Idle_North_07.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 112,
+        "y": 160
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "a45f04425e89ca70",
+        "index": 7,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_West_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 176
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "274bba3441095c1e",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Idle_West_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 176
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "41a1e863f641a7e3",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_West_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 176
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "ad9bce7739601557",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_West_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 176
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "836b9892b6404b60",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Idle_West_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 176
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "a62e86656eb62828",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_West_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 176
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "806c45ccbbc134dc",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "floating-eye-purple_Idle_West_06.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 96,
+        "y": 176
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "f883a9b36d84ed8f",
+        "index": 6,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "floating-eye-purple_Idle_West_07.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 112,
+        "y": 176
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "b0562fc85e650a59",
+        "index": 7,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    }
+  ],
+  "meta": {
+    "app": "Pixor",
+    "format": "I8",
+    "frameTags": [
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 0,
+        "name": "Attack_South",
+        "to": 7
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 8,
+        "name": "Attack_East",
+        "to": 15
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 16,
+        "name": "Attack_North",
+        "to": 23
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 24,
+        "name": "Attack_West",
+        "to": 31
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 32,
+        "name": "Hurt_South",
+        "repeat": "1",
+        "to": 37
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 38,
+        "name": "Hurt_East",
+        "repeat": "1",
+        "to": 43
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 44,
+        "name": "Hurt_North",
+        "repeat": "1",
+        "to": 49
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 50,
+        "name": "Hurt_West",
+        "repeat": "1",
+        "to": 55
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 56,
+        "name": "Idle_South",
+        "to": 63
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 64,
+        "name": "Idle_East",
+        "to": 71
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 72,
+        "name": "Idle_North",
+        "to": 79
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 80,
+        "name": "Idle_West",
+        "to": 87
+      }
+    ],
+    "image": "floating-eye-purple_16px_top-down_outline_lit.png",
+    "layers": [
+      {
+        "blendMode": "normal",
+        "name": "final",
+        "opacity": 255
+      }
+    ],
+    "pixor": {
+      "cell": {
+        "h": 16,
+        "w": 16
+      },
+      "emission": "s_emission.png",
+      "pivot": {
+        "x": 8,
+        "y": 11
+      },
+      "sides": {
+        "East": 90.0,
+        "North": 180.0,
+        "South": 0.0,
+        "West": 270.0
+      }
+    },
+    "scale": "1",
+    "size": {
+      "h": 192,
+      "w": 128
+    },
+    "slices": [
+      {
+        "color": "#0000ffff",
+        "keys": [
+          {
+            "bounds": {
+              "h": 16,
+              "w": 16,
+              "x": 0,
+              "y": 0
+            },
+            "frame": 0,
+            "pivot": {
+              "x": 8,
+              "y": 11
+            }
+          }
+        ],
+        "name": "pivot"
+      }
+    ],
+    "version": "2.1.0"
+  }
+}

@@ -1,0 +1,4258 @@
+{
+  "frames": [
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_South_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "1a4fb39eeda227a3",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Attack_South_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "6eca001d07402e5e",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_South_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "fad59af40f186572",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_South_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "39db6ea344f70151",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Attack_South_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "f9334adfa22e5f21",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_South_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "554f0bd67adb5d25",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_South_06.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 288,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "daf7f197dca9a4ba",
+        "index": 6,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Attack_South_07.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 336,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 0.0,
+        "id": "763750731b01c7a4",
+        "index": 7,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Attack_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_East_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "7f2695a9598b5e9a",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Attack_East_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "f18542f91ae6b0df",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_East_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "d5baae58825a52ab",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_East_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "9667d4f707fdfd7c",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Attack_East_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "4f2ba41b02a91a4c",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_East_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "44233d71cc51bc58",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_East_06.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 288,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "b9e6b5ce75121963",
+        "index": 6,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Attack_East_07.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 336,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 90.0,
+        "id": "e2ad980e4dfcc05d",
+        "index": 7,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Attack_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_North_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "18d66ff0e272401d",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Attack_North_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "de8767c909750e9c",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_North_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "d21ad3abfdfd56d8",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_North_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "2b7589a24989a4bf",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Attack_North_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "853a8a4ca540cb33",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_North_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "2d78ce98794da02f",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_North_06.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 288,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "48000fdce8af78fc",
+        "index": 6,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Attack_North_07.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 336,
+        "y": 96
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 180.0,
+        "id": "2057bc95b58e7716",
+        "index": 7,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Attack_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_West_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "6e41b4474ec7d094",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Attack_West_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "4461be93d3517295",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_West_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "f2484caabf9f4281",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_West_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "745f9d426d7bfd82",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Attack_West_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "b59dac6d40f04946",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_West_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "c8015e7efcd8c8f2",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Attack_West_06.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 288,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "0fd0ff40f50746dd",
+        "index": 6,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Attack_West_07.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 336,
+        "y": 144
+      },
+      "pixor": {
+        "action": "Attack",
+        "degrees": 270.0,
+        "id": "c317a1acba99b95f",
+        "index": 7,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Attack_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_South_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "62df348e698ba480",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Hurt_South_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "a8f13f5f18e32fb1",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_South_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "615a1b254322e925",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_South_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "cedc5efcd29060fe",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Hurt_South_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "80d038eb6473d98a",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_South_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 192
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 0.0,
+        "id": "3d0e203d1216f82e",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Hurt_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_East_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 240
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "e324245f6ff25753",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Hurt_East_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 240
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "e1e048cf844d21ee",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_East_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 240
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "6afdca301b1e87a2",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_East_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 240
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "b1e51ec3914a8721",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Hurt_East_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 240
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "f429e831c7586b51",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_East_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 240
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 90.0,
+        "id": "07e7436da49cbb55",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Hurt_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_North_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 288
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "92d7df29e8f6d0a6",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Hurt_North_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 288
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "880836cf3b7e880b",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_North_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 288
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "f06304992f7b9a7f",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_North_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 288
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "9d98c9559ac5fd18",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Hurt_North_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 288
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "3980604c1813df40",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_North_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 288
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 180.0,
+        "id": "96437cfb4e22dae4",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Hurt_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_West_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 336
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "13fa4115c87d70b9",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Hurt_West_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 336
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "d17b0ef39254d5a8",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_West_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 336
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "0bb4a0ebef5cbd8c",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_West_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 336
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "469e7c6e6b9a9d5b",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Hurt_West_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 336
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "19d5682d5bd8d397",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Hurt_West_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 336
+      },
+      "pixor": {
+        "action": "Hurt",
+        "degrees": 270.0,
+        "id": "9a2b96e61083634b",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Hurt_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_South_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "157836659f458f37",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Idle_South_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "47942f4c5fe22392",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_South_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "801b10f5bd313e3e",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_South_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "92859cc69e5207e5",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Idle_South_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "5b35b66269e067bd",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_South_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "4e7c9a232972b829",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_South_06.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 288,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "b9e1b80dbe586566",
+        "index": 6,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Idle_South_07.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 336,
+        "y": 384
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 0.0,
+        "id": "6bb255c499bdeca0",
+        "index": 7,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Idle_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_East_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 432
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "65d3bfe0c8a7cc7e",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Idle_East_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 432
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "bbab48ea479e0dc3",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_East_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 432
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "b892c329910e4b77",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_East_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 432
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "1f13dfc8a1ee3300",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Idle_East_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 432
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "caf7ef41f5cf1f08",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_East_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 432
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "e0a33228ddb2d9fc",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_East_06.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 288,
+        "y": 432
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "c61bf0e46e51012f",
+        "index": 6,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Idle_East_07.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 336,
+        "y": 432
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 90.0,
+        "id": "2a5f904eafc17039",
+        "index": 7,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Idle_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_North_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 480
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "49806adde41c79c1",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Idle_North_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 480
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "56449285c3ec92b0",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_North_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 480
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "e43bb0583eb46ad4",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_North_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 480
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "77210cd31acaa8b3",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Idle_North_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 480
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "86187632a277744f",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_North_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 480
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "ecd74313b8268413",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_North_06.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 288,
+        "y": 480
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "21217d61f31311e8",
+        "index": 6,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Idle_North_07.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 336,
+        "y": 480
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 180.0,
+        "id": "a7726c0c51838ce2",
+        "index": 7,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Idle_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_West_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 528
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "5d9b6b4f71ff8440",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Idle_West_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 528
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "fe6cfb724f9be0f1",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_West_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 528
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "9cf73a687952bae5",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_West_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 528
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "8a8cae979831f13e",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Idle_West_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 528
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "d63bf4fe9b2ad7ca",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_West_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 528
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "e10b3f7b6049d1ee",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Idle_West_06.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 288,
+        "y": 528
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "65162086033a2491",
+        "index": 6,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Idle_West_07.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 336,
+        "y": 528
+      },
+      "pixor": {
+        "action": "Idle",
+        "degrees": 270.0,
+        "id": "3f7cc934e68bc753",
+        "index": 7,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Idle_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_South_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "418a90188f7f09e0",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Walk_South_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "4a3ded67e7f47291",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_South_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "0419c0613113a445",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_South_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "c02d6763d7fcf79e",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Walk_South_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "587ce6f43668456a",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_South_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "482dc574180abb4e",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_South_06.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 288,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "9ab6d95243052af1",
+        "index": 6,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Walk_South_07.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 336,
+        "y": 576
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 0.0,
+        "id": "8b4dbb2a7ee458f3",
+        "index": 7,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "South",
+        "tag": "Walk_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_East_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 624
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "e4f8d486f74075b3",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Walk_East_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 624
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "1546c6238392d64e",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_East_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 624
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "8312b380fafbe442",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_East_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 624
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "b7583291c09246c1",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Walk_East_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 624
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "08a06ddbff3c26b1",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_East_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 624
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "1ffc2cbe847a17f5",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_East_06.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 288,
+        "y": 624
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "58275ba4fcdb582a",
+        "index": 6,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Walk_East_07.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 336,
+        "y": 624
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 90.0,
+        "id": "6a9c00231de95334",
+        "index": 7,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "East",
+        "tag": "Walk_East"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_North_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 672
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "15e00870a635b006",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Walk_North_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 672
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "1db23598a953046b",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_North_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 672
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "346b6f5f7b06491f",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_North_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 672
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "055f5e99389e37b8",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Walk_North_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 672
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "bc888992d552bea0",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_North_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 672
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "2f8bdf6b63f0f884",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_North_06.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 288,
+        "y": 672
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "8b8bb48a1d258437",
+        "index": 6,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Walk_North_07.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 336,
+        "y": 672
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 180.0,
+        "id": "feda7e0910026b81",
+        "index": 7,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "North",
+        "tag": "Walk_North"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_West_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 720
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "f2f8162a3dc78b19",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Walk_West_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 720
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "1dea3edce67b1188",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_West_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 720
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "3e515cab141838ac",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_West_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 720
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "3bdc8aac3973f5fb",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Walk_West_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 720
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "78e66d996094ac77",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_West_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 720
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "f0284a53ea65d46b",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "bomb-walker-black_Walk_West_06.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 288,
+        "y": 720
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "bc7eb775aa776ce0",
+        "index": 6,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "bomb-walker-black_Walk_West_07.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 336,
+        "y": 720
+      },
+      "pixor": {
+        "action": "Walk",
+        "degrees": 270.0,
+        "id": "f8b39dca70e64c9a",
+        "index": 7,
+        "pivot": {
+          "x": 24,
+          "y": 44
+        },
+        "side": "West",
+        "tag": "Walk_West"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    }
+  ],
+  "meta": {
+    "app": "Pixor",
+    "format": "I8",
+    "frameTags": [
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 0,
+        "name": "Attack_South",
+        "to": 7
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 8,
+        "name": "Attack_East",
+        "to": 15
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 16,
+        "name": "Attack_North",
+        "to": 23
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 24,
+        "name": "Attack_West",
+        "to": 31
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 32,
+        "name": "Hurt_South",
+        "repeat": "1",
+        "to": 37
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 38,
+        "name": "Hurt_East",
+        "repeat": "1",
+        "to": 43
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 44,
+        "name": "Hurt_North",
+        "repeat": "1",
+        "to": 49
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 50,
+        "name": "Hurt_West",
+        "repeat": "1",
+        "to": 55
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 56,
+        "name": "Idle_South",
+        "to": 63
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 64,
+        "name": "Idle_East",
+        "to": 71
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 72,
+        "name": "Idle_North",
+        "to": 79
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 80,
+        "name": "Idle_West",
+        "to": 87
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 88,
+        "name": "Walk_South",
+        "to": 95
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 96,
+        "name": "Walk_East",
+        "to": 103
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 104,
+        "name": "Walk_North",
+        "to": 111
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 112,
+        "name": "Walk_West",
+        "to": 119
+      }
+    ],
+    "image": "bomb-walker-black_48px_scroller_outline_lit.png",
+    "layers": [
+      {
+        "blendMode": "normal",
+        "name": "final",
+        "opacity": 255
+      }
+    ],
+    "pixor": {
+      "cell": {
+        "h": 48,
+        "w": 48
+      },
+      "emission": "s_emission.png",
+      "pivot": {
+        "x": 24,
+        "y": 44
+      },
+      "sides": {
+        "East": 90.0,
+        "North": 180.0,
+        "South": 0.0,
+        "West": 270.0
+      }
+    },
+    "scale": "1",
+    "size": {
+      "h": 768,
+      "w": 384
+    },
+    "slices": [
+      {
+        "color": "#0000ffff",
+        "keys": [
+          {
+            "bounds": {
+              "h": 48,
+              "w": 48,
+              "x": 0,
+              "y": 0
+            },
+            "frame": 0,
+            "pivot": {
+              "x": 24,
+              "y": 44
+            }
+          }
+        ],
+        "name": "pivot"
+      }
+    ],
+    "version": "2.1.0"
+  }
+}

@@ -1,0 +1,66 @@
+# Pixel Gun FX: Asset License
+
+Copyright (c) 2026 Tyler Anderson.
+
+"Assets" means the image and data files that came in this download: sprite sheets,
+individual frames, preview GIFs and images, palette files and frame data. "You" means
+the person, team or company that bought or downloaded them.
+
+## 1. What you CAN do
+
+**1.1 Use and modify.** You may use the Assets in your projects and modify them in any
+way: edit, recolour, resize, crop, re-time, split, combine, or draw new frames based on them.
+
+**1.2 Sell and distribute your projects.** You may sell and distribute projects that
+contain the Assets, free or commercial, in any number. This includes games, apps,
+prototypes, game-jam entries, videos and other finished works, and you pay no royalties.
+The Assets may ship inside your project's files in the normal way.
+
+**1.3 Credit.** Credit is appreciated but not required. If you'd like to credit, for
+example: "VFX: Pixel Gun FX by Tyler Anderson".
+
+## 2. What you CAN'T do
+
+**2.1 No reselling or redistributing the raw Assets.** You may not sell, share,
+sublicense, upload or give away the Assets as files in their own right. This applies
+whether they are as-is or modified, alone or as part of an asset pack, collection,
+template or similar product for other creators. This also applies to the free sampler.
+
+**2.2 No claiming authorship.** You may not claim you created the original Assets, or
+register them as your own trademark or copyright.
+
+**2.3 No AI training.** You may not use the Assets to train, fine-tune or test AI or
+machine-learning models, or put them in datasets for that purpose. You may not let
+anyone else do so either.
+
+**2.4 No hateful use.** You may not use the Assets in content that demeans or harasses
+people based on race, ethnicity, gender, religion, sexuality, disability or similar
+characteristics.
+
+**2.5 No merchandise.** You may not sell the Assets as the main product of physical or
+print-on-demand merchandise, such as shirts, prints or stickers. Using the Assets in
+your project and in normal marketing for it (trailers, screenshots, store pages) is fine.
+
+## 3. General
+
+**3.1 Scope.** This license is non-exclusive, worldwide and non-transferable. One
+purchase covers you, or your team or company. Others who want to use the Assets should
+get their own copy from the official page.
+
+**3.2 Free sampler.** The free Pixel Gun FX sampler (5 effects) is covered by these same
+terms. It is free, but it is not public domain.
+
+**3.3 Termination.** If you break these terms, your license ends. Projects you have
+already released in good faith are not affected unless the breach is of section 2.1.
+
+**3.4 No warranty.** The Assets are provided "as is", without warranty of any kind. The
+author is not liable for any damages arising from their use.
+
+**3.5 Questions.** If you're unsure whether your use is allowed, ask via the pack's
+itch.io page.
+
+---
+*How the assets were made (for information, not a license term):* pixel art drawn by
+code, not by an image-generation model. The code was written with help from an AI
+coding assistant. Every pixel was drawn by deterministic Python code (numpy + Pillow).
+See `PROVENANCE.md`.

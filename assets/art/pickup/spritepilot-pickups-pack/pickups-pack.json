@@ -1,0 +1,208 @@
+{
+  "name": "SpritePilot Pickups Pack",
+  "license": "CC0-1.0",
+  "source": "https://spritepilot.com/free-game-assets",
+  "layout": "Each PNG is one row of square frames, left to right. The file name gives the frame size and count: explosion-32px_strip10.png is 10 frames of 32 × 32.",
+  "effects": [
+    {
+      "id": "coin",
+      "name": "Coin",
+      "frames": 8,
+      "fps": 10,
+      "loop": true,
+      "sheets": [
+        {
+          "file": "16px/coin-16px_strip8.png",
+          "frameWidth": 16,
+          "frameHeight": 16
+        },
+        {
+          "file": "32px/coin-32px_strip8.png",
+          "frameWidth": 32,
+          "frameHeight": 32
+        }
+      ],
+      "preview": "previews/coin-preview.gif"
+    },
+    {
+      "id": "gem",
+      "name": "Gem",
+      "frames": 8,
+      "fps": 10,
+      "loop": true,
+      "sheets": [
+        {
+          "file": "16px/gem-16px_strip8.png",
+          "frameWidth": 16,
+          "frameHeight": 16
+        },
+        {
+          "file": "32px/gem-32px_strip8.png",
+          "frameWidth": 32,
+          "frameHeight": 32
+        }
+      ],
+      "preview": "previews/gem-preview.gif"
+    },
+    {
+      "id": "heart",
+      "name": "Heart",
+      "frames": 5,
+      "fps": 8,
+      "loop": true,
+      "sheets": [
+        {
+          "file": "16px/heart-16px_strip5.png",
+          "frameWidth": 16,
+          "frameHeight": 16
+        },
+        {
+          "file": "32px/heart-32px_strip5.png",
+          "frameWidth": 32,
+          "frameHeight": 32
+        }
+      ],
+      "preview": "previews/heart-preview.gif"
+    },
+    {
+      "id": "key",
+      "name": "Key",
+      "frames": 8,
+      "fps": 8,
+      "loop": true,
+      "sheets": [
+        {
+          "file": "16px/key-16px_strip8.png",
+          "frameWidth": 16,
+          "frameHeight": 16
+        },
+        {
+          "file": "32px/key-32px_strip8.png",
+          "frameWidth": 32,
+          "frameHeight": 32
+        }
+      ],
+      "preview": "previews/key-preview.gif"
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "frames": 10,
+      "fps": 10,
+      "loop": true,
+      "sheets": [
+        {
+          "file": "16px/star-16px_strip10.png",
+          "frameWidth": 16,
+          "frameHeight": 16
+        },
+        {
+          "file": "32px/star-32px_strip10.png",
+          "frameWidth": 32,
+          "frameHeight": 32
+        }
+      ],
+      "preview": "previews/star-preview.gif"
+    },
+    {
+      "id": "potion",
+      "name": "Potion",
+      "frames": 8,
+      "fps": 8,
+      "loop": true,
+      "sheets": [
+        {
+          "file": "16px/potion-16px_strip8.png",
+          "frameWidth": 16,
+          "frameHeight": 16
+        },
+        {
+          "file": "32px/potion-32px_strip8.png",
+          "frameWidth": 32,
+          "frameHeight": 32
+        }
+      ],
+      "preview": "previews/potion-preview.gif"
+    },
+    {
+      "id": "chest",
+      "name": "Treasure chest",
+      "frames": 10,
+      "fps": 12,
+      "loop": false,
+      "sheets": [
+        {
+          "file": "16px/chest-16px_strip10.png",
+          "frameWidth": 16,
+          "frameHeight": 16
+        },
+        {
+          "file": "32px/chest-32px_strip10.png",
+          "frameWidth": 32,
+          "frameHeight": 32
+        }
+      ],
+      "preview": "previews/chest-preview.gif"
+    },
+    {
+      "id": "shield",
+      "name": "Shield",
+      "frames": 8,
+      "fps": 10,
+      "loop": true,
+      "sheets": [
+        {
+          "file": "16px/shield-16px_strip8.png",
+          "frameWidth": 16,
+          "frameHeight": 16
+        },
+        {
+          "file": "32px/shield-32px_strip8.png",
+          "frameWidth": 32,
+          "frameHeight": 32
+        }
+      ],
+      "preview": "previews/shield-preview.gif"
+    },
+    {
+      "id": "lightning",
+      "name": "Lightning bolt",
+      "frames": 8,
+      "fps": 12,
+      "loop": true,
+      "sheets": [
+        {
+          "file": "16px/lightning-16px_strip8.png",
+          "frameWidth": 16,
+          "frameHeight": 16
+        },
+        {
+          "file": "32px/lightning-32px_strip8.png",
+          "frameWidth": 32,
+          "frameHeight": 32
+        }
+      ],
+      "preview": "previews/lightning-preview.gif"
+    },
+    {
+      "id": "life-orb",
+      "name": "Extra-life orb",
+      "frames": 8,
+      "fps": 10,
+      "loop": true,
+      "sheets": [
+        {
+          "file": "16px/life-orb-16px_strip8.png",
+          "frameWidth": 16,
+          "frameHeight": 16
+        },
+        {
+          "file": "32px/life-orb-32px_strip8.png",
+          "frameWidth": 32,
+          "frameHeight": 32
+        }
+      ],
+      "preview": "previews/life-orb-preview.gif"
+    }
+  ]
+}

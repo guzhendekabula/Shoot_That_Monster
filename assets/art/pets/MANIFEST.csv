@@ -1,0 +1,5 @@
+file,character,columns,rows,frames,frame_w,frame_h,row_order
+fox/walk_4dir.png,fox,12,4,48,88,88,"down,left,right,up"
+dragonling/walk_4dir.png,dragonling,12,4,48,88,88,"down,left,right,up"
+squirrel/walk_4dir.png,squirrel,12,4,48,88,88,"down,left,right,up"
+frog/walk_4dir.png,frog,12,4,48,88,88,"down,left,right,up"

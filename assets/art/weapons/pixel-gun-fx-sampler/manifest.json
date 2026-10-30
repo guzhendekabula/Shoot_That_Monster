@@ -1,0 +1,202 @@
+{
+  "pack": "Pixel Gun FX: Free Sampler",
+  "version": "1.0.2",
+  "frame_size": [
+    64,
+    64
+  ],
+  "effects_count": 31,
+  "palette": [
+    "#14101c",
+    "#3a2e4d",
+    "#6e5f80",
+    "#a898b4",
+    "#ddd3e3",
+    "#ffffff",
+    "#5c1a24",
+    "#b82e2e",
+    "#ee6b24",
+    "#ffb238",
+    "#fff17a",
+    "#1b2f66",
+    "#2d6fd6",
+    "#57c8f2",
+    "#c6f6ff",
+    "#6a2aa8",
+    "#c057ea",
+    "#f5b8ff",
+    "#2a8d4f",
+    "#8fe46d",
+    "#dcffb5",
+    "#1e4d3b",
+    "#dcae72",
+    "#9a6444",
+    "#5a3a33"
+  ],
+  "palette_note": "Identical 25-colour palette to Pixel Impact FX",
+  "categories": [
+    {
+      "id": "muzzle",
+      "name": "Muzzle Flashes"
+    },
+    {
+      "id": "projectile",
+      "name": "Tracers + Projectiles"
+    },
+    {
+      "id": "shell",
+      "name": "Shell Ejection"
+    },
+    {
+      "id": "impact",
+      "name": "Impacts"
+    },
+    {
+      "id": "spark",
+      "name": "Ricochet + Sparks"
+    },
+    {
+      "id": "smoke",
+      "name": "Smoke"
+    },
+    {
+      "id": "energy",
+      "name": "Energy Weapons"
+    },
+    {
+      "id": "utility",
+      "name": "Utility + Explosions"
+    }
+  ],
+  "effects": [
+    {
+      "key": "rifle_muzzle_flash",
+      "name": "Rifle Muzzle Flash (side)",
+      "category": "muzzle",
+      "frames": 8,
+      "fps": 20,
+      "frame_ms": 50,
+      "loop": false,
+      "anchor": "left-center (muzzle x=6,y=32), fires right",
+      "sheet": "effects/rifle_muzzle_flash/rifle_muzzle_flash_64x64_8f.png",
+      "preview_gif": "effects/rifle_muzzle_flash/rifle_muzzle_flash_preview_4x.gif",
+      "colourways": [
+        "original",
+        "plasma"
+      ],
+      "variants": [
+        {
+          "id": "plasma",
+          "name": "Plasma Blue",
+          "sheet": "effects/rifle_muzzle_flash/rifle_muzzle_flash_plasma_64x64_8f.png",
+          "preview_gif": "effects/rifle_muzzle_flash/rifle_muzzle_flash_plasma_preview_4x.gif"
+        }
+      ]
+    },
+    {
+      "key": "bullet_tracer",
+      "name": "Bullet Tracer (loop)",
+      "category": "projectile",
+      "frames": 4,
+      "fps": 20,
+      "frame_ms": 50,
+      "loop": true,
+      "anchor": "round centre (x=50,y=32), flies right",
+      "sheet": "effects/bullet_tracer/bullet_tracer_64x64_4f.png",
+      "preview_gif": "effects/bullet_tracer/bullet_tracer_preview_4x.gif",
+      "colourways": [
+        "original",
+        "green"
+      ],
+      "variants": [
+        {
+          "id": "green",
+          "name": "Green Tracer",
+          "sheet": "effects/bullet_tracer/bullet_tracer_green_64x64_4f.png",
+          "preview_gif": "effects/bullet_tracer/bullet_tracer_green_preview_4x.gif"
+        }
+      ]
+    },
+    {
+      "key": "laser_bolt",
+      "name": "Laser Bolt (loop)",
+      "category": "projectile",
+      "frames": 4,
+      "fps": 20,
+      "frame_ms": 50,
+      "loop": true,
+      "anchor": "bolt head (x=46,y=32), flies right",
+      "sheet": "effects/laser_bolt/laser_bolt_64x64_4f.png",
+      "preview_gif": "effects/laser_bolt/laser_bolt_preview_4x.gif",
+      "colourways": [
+        "original",
+        "blue",
+        "green"
+      ],
+      "variants": [
+        {
+          "id": "blue",
+          "name": "Blue",
+          "sheet": "effects/laser_bolt/laser_bolt_blue_64x64_4f.png",
+          "preview_gif": "effects/laser_bolt/laser_bolt_blue_preview_4x.gif"
+        },
+        {
+          "id": "green",
+          "name": "Green",
+          "sheet": "effects/laser_bolt/laser_bolt_green_64x64_4f.png",
+          "preview_gif": "effects/laser_bolt/laser_bolt_green_preview_4x.gif"
+        }
+      ]
+    },
+    {
+      "key": "metal_impact",
+      "name": "Metal Impact + Ricochet",
+      "category": "impact",
+      "frames": 9,
+      "fps": 15,
+      "frame_ms": 70,
+      "loop": false,
+      "anchor": "impact point (x=44,y=32), surface faces left",
+      "sheet": "effects/metal_impact/metal_impact_64x64_9f.png",
+      "preview_gif": "effects/metal_impact/metal_impact_preview_4x.gif",
+      "colourways": [
+        "original",
+        "energy"
+      ],
+      "variants": [
+        {
+          "id": "energy",
+          "name": "Energy Blue",
+          "sheet": "effects/metal_impact/metal_impact_energy_64x64_9f.png",
+          "preview_gif": "effects/metal_impact/metal_impact_energy_preview_4x.gif"
+        }
+      ]
+    },
+    {
+      "key": "grenade_explosion",
+      "name": "Grenade Explosion",
+      "category": "utility",
+      "frames": 14,
+      "fps": 12,
+      "frame_ms": 80,
+      "loop": false,
+      "anchor": "bottom-center (ground x=32,y=54)",
+      "sheet": "effects/grenade_explosion/grenade_explosion_64x64_14f.png",
+      "preview_gif": "effects/grenade_explosion/grenade_explosion_preview_4x.gif",
+      "colourways": [
+        "original",
+        "plasma"
+      ],
+      "variants": [
+        {
+          "id": "plasma",
+          "name": "Plasma Charge",
+          "sheet": "effects/grenade_explosion/grenade_explosion_plasma_64x64_14f.png",
+          "preview_gif": "effects/grenade_explosion/grenade_explosion_plasma_preview_4x.gif"
+        }
+      ]
+    }
+  ],
+  "colourways_total": 65,
+  "frames_total": 513
+}

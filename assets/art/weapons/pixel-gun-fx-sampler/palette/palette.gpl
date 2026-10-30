@@ -1,0 +1,29 @@
+GIMP Palette
+Name: Pixel Gun FX
+Columns: 8
+#
+ 20  16  28	ink
+ 58  46  77	shadow
+110  95 128	smoke_dark
+168 152 180	smoke_mid
+221 211 227	smoke_light
+255 255 255	white
+ 92  26  36	blood
+184  46  46	red
+238 107  36	orange
+255 178  56	amber
+255 241 122	yellow
+ 27  47 102	navy
+ 45 111 214	blue
+ 87 200 242	cyan
+198 246 255	ice
+106  42 168	violet
+192  87 234	magenta
+245 184 255	pink
+ 42 141  79	green
+143 228 109	lime
+220 255 181	mint
+ 30  77  59	forest
+220 174 114	sand
+154 100  68	dirt
+ 90  58  51	umber

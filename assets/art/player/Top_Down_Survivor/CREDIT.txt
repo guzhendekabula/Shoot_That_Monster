@@ -1,0 +1,6 @@
+Asset: Animated Top Down Survivor Player
+Author: Riley Gombart
+Source: https://opengameart.org/content/animated-top-down-survivor-player
+License: Creative Commons Attribution 3.0 (CC BY 3.0)
+
+The original downloaded files are retained in this folder. Runtime copies of the selected PNG frames are in assets/resources/game/player/survivor/.
