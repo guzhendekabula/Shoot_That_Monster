@@ -2,6 +2,16 @@
 
 基于 **Cocos Creator 3.8.8 + TypeScript** 开发的俯视角生存射击 H5 试玩游戏，支持鼠标与触摸操作，提供可编辑工程和单文件 HTML 试玩包。
 
+## 游戏截图
+
+### 新手指引与难度选择
+
+![新手指引与难度选择](./docs/screenshots/menu.png)
+
+### Boss 战与宠物技能
+
+![Boss 战与宠物技能](./docs/screenshots/boss-battle.png)
+
 ## 快速体验
 
 1. 下载仓库中的 [PlayableAd_final.html](./PlayableAd_final.html)。在 GitHub 文件页选择下载原始文件，或克隆仓库后获取该文件。
